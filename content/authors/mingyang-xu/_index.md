@@ -1,6 +1,6 @@
 ---
 title: MIngyang Xu
-role: ""
+role: "11"
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
